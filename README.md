@@ -1,7 +1,10 @@
 # CleanSwift
 Demo for CleanSwift using VIP
+
 Handbook : https://clean-swift.com 
+
 Installation : https://medium.com/swift2go/installing-the-clean-swift-template-in-xcode-6b4367006827
+
 
 1. Install CleanSwift file templates
 2. Create necessary Group for clarifying the structure, such as "Model", "Scenes"... etc
